@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="">
     </head>
     <body>
-            <h2>Hiii I am Sumit Kumar Yadav I am sin</h2>
+            <h2>Hiii I am Sumit Kumar Yadav I am single</h2>
         
         <script src="" async defer></script>
     </body>
